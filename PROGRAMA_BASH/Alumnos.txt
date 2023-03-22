@@ -1,0 +1,4 @@
+ZTX-360 dennis ponce tercero C 0 10 10 6 REMEDIAL
+BKS-201 toto toto segundo A 10 10 10 10 APROBADO
+VVW-285 toto toto cuarto B 0 10 0 3 REPROBADO
+
